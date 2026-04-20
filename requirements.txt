@@ -1,0 +1,12 @@
+numpy
+pandas
+opencv-python
+matplotlib
+scikit-learn
+scikit-image
+tensorflow
+keras
+streamlit
+pillow
+joblib
+xgboost
